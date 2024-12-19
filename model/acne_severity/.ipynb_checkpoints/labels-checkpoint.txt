@@ -1,0 +1,4 @@
+0 Severity Mild
+1 Severity Moderate
+2 Severity Severe
+3 Severity Very Severe
